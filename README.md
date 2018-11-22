@@ -1,7 +1,7 @@
 ## How To Create Mysql Cluster via Oracle Mysql-Operator
 
 ### Preparation
-* Instal helm. Please refer official [github tutorial](https://github.com/oracle/mysql-operator/blob/master/docs/tutorial.md)
+* Install helm. Please refer official [github tutorial](https://github.com/oracle/mysql-operator/blob/master/docs/tutorial.md)
 * $ kubectl create ns mysql-operator
 * git clone the repository
 ```
