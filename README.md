@@ -156,6 +156,12 @@ spec:
 * run mysql client to test the db is up
 ```
 kubectl run mysql-client --image=mysql:5.7 -it --rm --restart=Never    -- mysql -h mysql-cluster-localfs -uroot -p**** -e 'SELECT 1'
+mysql: [Warning] Using a password on the command line interface can be insecure.
++---+
+| 1 |
++---+
+| 1 |
++---+
 ```
 
 ### Clean up
