@@ -1,4 +1,4 @@
-## How To Create Mysql Cluster via Oracle Mysql-operator
+## How To Create Mysql Cluster via Oracle Mysql-Operator
 
 ### Preparation
 * Instal helm. Please refer official [github tutorial](https://github.com/oracle/mysql-operator/blob/master/docs/tutorial.md)
